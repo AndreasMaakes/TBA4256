@@ -1,0 +1,8 @@
+Final project 3DigMod
+
+Lots of advanced technology for classification, but we will use voxel based classification.
+
+Voxelization  Try different sizes to see, for instance 80 cm, 50 cm, 45, 30 etc. HC: Don’t use voxel size larger than 1 meter
+Classify at least 3 classes  Trees, terrain and buildings (If you can, distinguish between water/road and terrain if you can (heavy computational effort)).
+Select 10-20 buildings, 10-20 pieces of terrain and 30 trees, and calculate features based on these (You can calculate the parameters you are gonna use for the classification by selecting features in cloudcompare).
+Deadline 15th of November
