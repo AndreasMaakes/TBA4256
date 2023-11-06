@@ -1,0 +1,16 @@
+if (anisotropy > 0.916) and (planarity > 0.324) and (z_range <= 1.72) then class: 2.0 (proba: 85.04%) | based on 2,727 samples
+
+if (anisotropy > 0.916) and (planarity <= 0.324) and (z_range <= 1.785) then class: 2.0 (proba: 45.61%) | based on 1,206 samples
+
+if (anisotropy <= 0.916) and (omnivariance <= 0.424) and (change_of_curvature <= 0.055) then class: 0.0 (proba: 61.28%) | based on 847 samples
+
+if (anisotropy <= 0.916) and (omnivariance <= 0.424) and (change_of_curvature > 0.055) then class: 0.0 (proba: 62.44%) | based on 796 samples
+
+if (anisotropy <= 0.916) and (omnivariance > 0.424) and (z_range > 1.62) then class: 0.0 (proba: 94.9%) | based on 647 samples
+
+if (anisotropy > 0.916) and (planarity > 0.324) and (z_range > 1.72) then class: 1.0 (proba: 47.93%) | based on 532 samples
+
+if (anisotropy > 0.916) and (planarity <= 0.324) and (z_range > 1.785) then class: 0.0 (proba: 64.32%) | based on 213 samples
+
+if (anisotropy <= 0.916) and (omnivariance > 0.424) and (z_range <= 1.62) then class: 2.0 (proba: 100.0%) | based on 2 samples
+

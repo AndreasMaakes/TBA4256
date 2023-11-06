@@ -1,0 +1,10 @@
+feature,shap_importance
+anisotropy,0.4687434194945247
+planarity,0.23651139724398806
+z_range,0.23257989201462548
+omnivariance,0.08315094803653773
+change_of_curvature,0.05173461916042221
+linearity,0.0
+scattering,0.0
+sum_eigenvalues,0.0
+eigentropy,0.0

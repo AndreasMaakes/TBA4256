@@ -1,0 +1,39 @@
+{
+    "columns": [
+        "linearity",
+        "planarity",
+        "scattering",
+        "omnivariance",
+        "sum_eigenvalues",
+        "anisotropy",
+        "eigentropy",
+        "change_of_curvature",
+        "z_range"
+    ],
+    "rows": 9294,
+    "cols": 9,
+    "target_is_numeric": true,
+    "columns_info": {
+        "linearity": [],
+        "planarity": [],
+        "scattering": [],
+        "omnivariance": [],
+        "sum_eigenvalues": [
+            "scale"
+        ],
+        "anisotropy": [
+            "scale"
+        ],
+        "eigentropy": [],
+        "change_of_curvature": [],
+        "z_range": [
+            "scale"
+        ]
+    },
+    "target_info": [],
+    "n_features": 9,
+    "is_sample_weighted": false,
+    "is_fairness_applied": false,
+    "n_classes": 3,
+    "num_class": 3
+}
